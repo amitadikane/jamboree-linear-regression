@@ -45,8 +45,8 @@ Business questions:
 
 ## 📓 Notebook & Full Report
 
-- **Jupyter Notebook**: [./notebooks/](./notebooks/)
-- **PDF Report**: [./reports/](./reports/)
+- **Jupyter Notebook**: [./notebooks/](./notebooks/jamboree_analysis.ipynb)
+- **PDF Report**: [./reports/](./reports/jamboree_analysis.pdf)
 
 ---
 
